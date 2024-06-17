@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yw/7qCQM8Dk=",
+  "success": true,
+  "projectFilePath": "/workspaces/LAB-NET/LAB-NET/LAB-NET.sqlproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

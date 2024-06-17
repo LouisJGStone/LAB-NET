@@ -1,0 +1,9 @@
+/workspaces/LAB-NET/LAB-NET/bin/Debug/LAB-NET.dacpac
+/workspaces/LAB-NET/LAB-NET/bin/Debug/LAB-NET.dll
+/workspaces/LAB-NET/LAB-NET/bin/Debug/LAB-NET.pdb
+/workspaces/LAB-NET/LAB-NET/obj/Debug/Model.xml
+/workspaces/LAB-NET/LAB-NET/obj/Debug/refactor.xml
+/workspaces/LAB-NET/LAB-NET/obj/Debug/postdeploy.sql
+/workspaces/LAB-NET/LAB-NET/obj/Debug/predeploy.sql
+/workspaces/LAB-NET/LAB-NET/obj/Debug/LAB-NET.dll
+/workspaces/LAB-NET/LAB-NET/obj/Debug/LAB-NET.pdb
